@@ -1,0 +1,161 @@
+index,transaction_date,merchant,category,amount,card
+0,05/09/2023,galpao gaucho cupertino,Food & Drink,175.44,BoA
+1,04/28/2023,tst teaspoon - saratoga,Food & Drink,5.5,BoA
+2,04/25/2023,chipotle 1031,Food & Drink,24.53,BoA
+3,04/24/2023,chipotle 1031,Food & Drink,13.84,BoA
+4,04/24/2023,dino's restaurant,Food & Drink,38.0,BoA
+5,04/24/2023,ckeikes place palo alto,Food & Drink,36.33,BoA
+6,04/24/2023,ikea east palo alto,Shopping,7.81,BoA
+7,04/24/2023,ikea east palo alto,Shopping,313.13,BoA
+8,04/24/2023,dinos grill,Food & Drink,33.03,BoA
+9,04/24/2023,safeway #1224,Groceries,11.98,BoA
+10,04/20/2023,tasty pot,Food & Drink,39.85,BoA
+11,04/20/2023,in n out burger 194,Food & Drink,6.78,BoA
+12,04/20/2023,tst sunright tea studio,Food & Drink,6.55,BoA
+13,04/20/2023,five guys ca 1091 qsr,Food & Drink,29.01,BoA
+14,04/19/2023,ckeike s - burlinga 1400,Food & Drink,13.56,BoA
+15,04/19/2023,marukai market,Groceries,19.8,BoA
+16,04/19/2023,tst marufuku ramen cup,Food & Drink,41.21,BoA
+17,04/18/2023,boiling point- fremont,Food & Drink,45.89,BoA
+18,04/18/2023,mom`s tofu house,Food & Drink,62.61,BoA
+19,04/17/2023,osaka marketplace,Groceries,9.28,BoA
+20,04/17/2023,osaka marketplace,Groceries,4.5,BoA
+21,04/17/2023,blaze pizza #1027,Food & Drink,37.87,BoA
+22,04/15/2023,osaka marketplace,Groceries,4.5,BoA
+23,04/15/2023,teaspoon,Food & Drink,6.25,BoA
+24,04/15/2023,99 ranch #1701,Groceries,3.88,BoA
+25,04/15/2023,mr sun tea,Food & Drink,12.68,BoA
+26,04/14/2023,sizzling lunch at fremont,Food & Drink,53.26,BoA
+27,04/14/2023,safeway #1224,Groceries,7.79,BoA
+28,04/13/2023,baskin #361217,Food & Drink,14.95,BoA
+29,04/13/2023,panda express 1612,Food & Drink,26.8,BoA
+30,04/13/2023,sweethoney dessert,Food & Drink,20.38,BoA
+31,04/13/2023,frodojoes petit cafe,Food & Drink,37.7,BoA
+32,04/13/2023,apt. li-xiang,Food & Drink,37.71,BoA
+33,04/12/2023,99 ranch #1783,Groceries,4.25,BoA
+34,04/12/2023,tst billy roys burgers,Food & Drink,59.0,BoA
+35,04/11/2023,duans noodle house,Food & Drink,39.02,BoA
+36,04/11/2023,paypal trademethestars,Entertainment,580.0,BoA
+37,04/10/2023,tst sweet maple - cupert,Food & Drink,80.09,BoA
+38,05/25/2023,kindle svcso67rm7ps3,Shopping,9.99,Chase
+39,05/12/2023,netflix,Bills & Utilities,19.99,Chase
+40,05/11/2023,spotify usa,Bills & Utilities,4.99,Chase
+41,05/03/2023,paypal steam games,Entertainment,29.22,Chase
+42,05/02/2023,paypal steam games,Entertainment,19.99,Chase
+43,04/30/2023,izumi sushi,Food & Drink,154.95,Chase
+44,04/30/2023,berkeley bowl west,Groceries,5.99,Chase
+45,04/29/2023,paypal gwdconcepts,Shopping,10.48,Chase
+46,04/14/2023,paypal steam games,Entertainment,29.99,Chase
+47,04/12/2023,netflix.com,Bills & Utilities,19.99,Chase
+48,04/11/2023,spotify usa,Bills & Utilities,4.99,Chase
+49,04/10/2023,kindle svcshj9wv3xj0,Shopping,7.99,Chase
+50,04/09/2023,paypal pypl payin4,Shopping,36.47,Chase
+51,04/08/2023,paypal nancygomez4,Professional Services,230.0,Chase
+52,04/06/2023,sq kura revolving sushi,Food & Drink,119.76,Chase
+53,04/07/2023,kindle svcshs2oh3pd2,Shopping,9.99,Chase
+54,04/08/2023,anime expo 2023 - gene,Entertainment,186.75,Chase
+55,04/02/2023,papa john's #4020,Food & Drink,28.77,Chase
+56,04/04/2023,paypal paii,Professional Services,161.84,Chase
+57,03/30/2023,berkeley-prkg ips meter,Travel,5.25,Chase
+58,03/29/2023,paypal gwdconcepts,Shopping,10.48,Chase
+59,03/30/2023,snack tp tea  ber,Food & Drink,12.51,Chase
+60,03/27/2023,mr sun tea,Food & Drink,12.95,Chase
+61,03/25/2023,tst harris,Food & Drink,316.57,Chase
+62,03/23/2023,sq kura revolving sushi,Food & Drink,225.01,Chase
+63,03/23/2023,five guys ca 1651 qsr,Food & Drink,28.23,Chase
+64,03/23/2023,tst sunright tea studio,Food & Drink,18.85,Chase
+65,03/25/2023,paypal pypl payin4,Shopping,36.48,Chase
+66,03/19/2023,tst icicles - san mateo,Food & Drink,12.5,Chase
+67,03/18/2023,city of sm pw parking me,Travel,1.25,Chase
+68,03/17/2023,paypal steam games,Entertainment,5.99,Chase
+69,03/15/2023,safeway #0309,Groceries,10.98,Chase
+70,03/14/2023,bungie store,Shopping,184.63,Chase
+71,03/12/2023,netflix.com,Bills & Utilities,19.99,Chase
+72,03/13/2023,paypal pypl payin4,Shopping,146.96,Chase
+73,03/11/2023,sq manduyo,Food & Drink,21.55,Chase
+74,03/11/2023,spotify usa,Bills & Utilities,4.99,Chase
+75,03/10/2023,paypal pypl payin4,Shopping,36.48,Chase
+76,03/08/2023,kogi gogi,Food & Drink,223.04,Chase
+77,03/08/2023,yifang taiwan fruit tea,Food & Drink,7.95,Chase
+78,02/20/2023,rice junky.,Food & Drink,11.01,Chase
+79,03/02/2023,paypal steam games,Entertainment,99.99,Chase
+80,03/01/2023,chipotle 1031,Food & Drink,10.69,Chase
+81,02/28/2023,paypal gwdconcepts,Shopping,10.48,Chase
+82,02/28/2023,mcdonalds 12056,Food & Drink,9.61,Chase
+83,02/25/2023,oakland park meter ips,Bills & Utilities,2.0,Chase
+84,02/26/2023,paypal pypl payin4,Shopping,146.95,Chase
+85,02/24/2023,paypal steam games,Entertainment,17.99,Chase
+86,02/23/2023,tst sunright tea studio,Food & Drink,12.11,Chase
+87,02/22/2023,ckeike s - burlinga 1400,Food & Drink,29.71,Chase
+88,02/22/2023,mcdonalds 12056,Food & Drink,21.88,Chase
+89,02/23/2023,paypal pypl payin4,Shopping,36.48,Chase
+90,02/21/2023,allstar burger,Food & Drink,25.64,Chase
+91,02/19/2023,chipotle 1031,Food & Drink,10.69,Chase
+92,02/18/2023,chipotle 1031,Food & Drink,11.24,Chase
+93,02/17/2023,sq kura revolving sushi,Food & Drink,142.25,Chase
+94,02/17/2023,tst sunright tea studio,Food & Drink,12.0,Chase
+95,02/17/2023,paypal newtype,Shopping,142.25,Chase
+96,02/16/2023,chipotle 1031,Food & Drink,15.06,Chase
+97,02/15/2023,60775 - sfo parking it-g,Travel,18.0,Chase
+98,02/15/2023,ckeike's love and sandwi,Food & Drink,22.78,Chase
+99,02/15/2023,tst green beans coffee -,Food & Drink,8.54,Chase
+100,02/13/2023,paypal newtype,Shopping,26.75,Chase
+101,02/12/2023,mcdonald's f12056,Food & Drink,17.79,Chase
+102,02/12/2023,netflix.com,Bills & Utilities,19.99,Chase
+103,02/11/2023,paypal pypl payin4,Shopping,146.95,Chase
+104,02/11/2023,spotify usa,Bills & Utilities,4.99,Chase
+105,02/10/2023,laz parking 680387-wc,Travel,1.0,Chase
+106,02/10/2023,safeway #1224,Groceries,6.49,Chase
+107,02/10/2023,paypal newtype,Shopping,10.92,Chase
+108,02/08/2023,amzn mktp usf57pp7it3,Shopping,29.76,Chase
+109,02/08/2023,amzn mktp ush955a8uh0,Shopping,13.28,Chase
+110,02/07/2023,tst tiger sugar cupertin,Food & Drink,7.76,Chase
+111,02/01/2023,r&amp;b tea fremont,Food & Drink,6.61,Chase
+112,02/01/2023,wienerschnitzel 241,Food & Drink,8.8,Chase
+113,01/29/2023,paypal gwdconcepts,Shopping,10.48,Chase
+114,01/27/2023,chipotle 1031,Food & Drink,16.26,Chase
+115,01/28/2023,paypal pypl payin4,Shopping,146.96,Chase
+116,01/26/2023,square enix,Entertainment,24.0,Chase
+117,01/26/2023,tst sunright tea studio,Food & Drink,6.25,Chase
+118,01/25/2023,paypal steam games,Entertainment,17.38,Chase
+119,01/25/2023,paypal steam games,Entertainment,14.79,Chase
+120,01/22/2023,tst sunright tea studio,Food & Drink,12.0,Chase
+121,01/22/2023,khan 3,Food & Drink,83.8,Chase
+122,01/20/2023,square enix,Entertainment,22.0,Chase
+123,01/16/2023,square enix,Entertainment,29.99,Chase
+124,01/15/2023,amazon.com0719o8m63,Shopping,55.36,Chase
+125,01/16/2023,amazon.comsz8km5bn3,Shopping,38.75,Chase
+126,01/14/2023,sq one pot shabu shabu,Food & Drink,120.73,Chase
+127,01/14/2023,hui lau shan,Food & Drink,15.0,Chase
+128,01/12/2023,tst jamba juice - 0453 -,Food & Drink,8.99,Chase
+129,01/12/2023,netflix.com,Bills & Utilities,19.99,Chase
+130,01/11/2023,spotify usa,Bills & Utilities,4.99,Chase
+131,01/10/2023,paypal steam games,Entertainment,29.99,Chase
+132,01/07/2023,myung rang cupertino,Food & Drink,11.99,Chase
+133,01/07/2023,sq kura revolving sushi,Food & Drink,142.25,Chase
+134,01/06/2023,tiger tea &amp; juice sj,Food & Drink,5.75,Chase
+135,01/07/2023,sq tan-cha cupertino,Food & Drink,12.75,Chase
+136,01/07/2023,paypal steam games,Entertainment,222.15,Chase
+137,01/07/2023,paypal steam games,Entertainment,0.74,Chase
+138,01/06/2023,jagex payment,Entertainment,79.99,Chase
+139,01/01/2023,shell oil 10007956005,Gas,3.49,Chase
+140,12/30/2022,ultra sushi.,Food & Drink,171.95,Chase
+141,12/31/2022,mcdonald's f16753,Food & Drink,18.42,Chase
+142,05/27/2023,khan shabu shabu and b,Food & Drink,96.49,Apple
+143,05/25/2023,safeway,Groceries,24.22,Apple
+144,05/23/2023,dino's grill,Food & Drink,39.26,Apple
+145,05/23/2023,osaka marketplace,Groceries,9.3,Apple
+146,05/19/2023,mcdonald's,Food & Drink,9.06,Apple
+147,05/18/2023,safeway,Groceries,36.43,Apple
+148,05/17/2023,best buy,Other,76.55,Apple
+149,05/16/2023,habit fremont #93 q91,Food & Drink,33.42,Apple
+150,05/12/2023,mcdonald's,Food & Drink,10.49,Apple
+151,05/13/2023,cal alumni association,Other,340.0,Apple
+152,05/11/2023,marvel cake,Food & Drink,34.5,Apple
+153,05/10/2023,mcdonald's,Food & Drink,19.67,Apple
+154,05/10/2023,ebay,Shopping,21.59,Apple
+155,05/08/2023,hui lau shan,Food & Drink,13.51,Apple
+156,05/07/2023,billy roys burger,Food & Drink,60.29,Apple
+157,05/04/2023,marukai,Groceries,36.97,Apple
+158,05/06/2023,yugo ramen,Food & Drink,41.17,Apple
+159,05/04/2023,kura revolving sus,Food & Drink,151.41,Apple
